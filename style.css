@@ -3,13 +3,12 @@ body { background-color: #CAC0BD ;}
 .moncercle {
   /* the shadows are added to the boxmodel, so you need to preserve some extra space*/ 
   text-align: center;
-  width: 500px;
-  height:500px;
-  margin-top: 100px;
+  width: 200px;
+  height:200px;
+  margin-top: 10px;
   margin-left:350px; 
   background-color: #ffffff ;
   border : 2px solid black;
   -webkit-border-radius : 50%;
-  -moz-border-radius : 50%; 
-  background-image: url("Image/LangLong.jpg");
+  -moz-border-radius : 50%;
 }

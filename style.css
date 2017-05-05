@@ -1,14 +1,5 @@
 body { background-color: #CAC0BD ;}
 
-/*@font-face {
-font-family: Pacifico;
-src: url(Pacifico.ttf);
-}
-*/
-
-
-
-
 .moncercle {
   /* the shadows are added to the boxmodel, so you need to preserve some extra space*/ 
   text-align: center;
